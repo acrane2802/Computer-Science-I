@@ -1,5 +1,5 @@
 // Andrew Crane
-// November 16th 2023
+// November 21th 2023
 // Computer Science 1
 // uses 2 sorting algorithms, bubble and selection, to sort arrays
 
